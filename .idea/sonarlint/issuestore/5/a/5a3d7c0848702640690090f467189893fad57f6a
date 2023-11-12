@@ -1,0 +1,7 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(Ô½Õ–
+E	java:S106'"+Replace this use of System.out by a logger.(Š¤…Äúÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(‰›á
+F
+java:S1068
+"0Remove this unused "inputControl" private field.(Ò®ê¾

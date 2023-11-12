@@ -1,0 +1,17 @@
+
+[	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ªŞ¢ùÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(Š¤…Äúÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(‰›á
+E	java:S106V"+Replace this use of System.out by a logger.(Š¤…Äúÿÿÿÿ
+@	java:S106W"+Replace this use of System.out by a logger.(‰›á
+E	java:S106p"+Replace this use of System.out by a logger.(Š¤…Äúÿÿÿÿ
+@	java:S106q"+Replace this use of System.out by a logger.(‰›á
+E	java:S106z"+Replace this use of System.out by a logger.(ùæ•—øÿÿÿÿ
+E	java:S106|"+Replace this use of System.out by a logger.(ÿÇ˜Ûûÿÿÿÿ
+F	java:S106‚"+Replace this use of System.out by a logger.(«„±şÿÿÿÿ
+F	java:S106„"+Replace this use of System.out by a logger.(‹®õñùÿÿÿÿ
+F	java:S106Š"+Replace this use of System.out by a logger.(ùæ•—øÿÿÿÿ
+F	java:S106‘"+Replace this use of System.out by a logger.(öÉúıÿÿÿÿÿ
+F	java:S106“"+Replace this use of System.out by a logger.(‹®õñùÿÿÿÿ
+Z
+java:S1128"ERemove this unused import 'jakarta.enterprise.context.RequestScoped'.(¸¢Ì
