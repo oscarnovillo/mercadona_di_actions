@@ -44,7 +44,7 @@ jobs:
         run: docker login -u ${{ secrets.DOCKER_REGISTRY_USERNAME }} ${{ secrets.DOCKER_REGISTRY_URL }} -p ${{ secrets.DOCKER_REGISTRY_PASSWORD }}
       - uses: actions/download-artifact@v2
         with:
-        name: my-jar
+          name: my-jar
 
       - name: Build Container image
         run: docker build -t '${{ secrets.DOCKER_REGISTRY_URL }}/${{ secrets.DOCKER_REGISTRY_USERNAME }}/mercadona:latest' .
