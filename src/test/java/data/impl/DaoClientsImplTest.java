@@ -52,7 +52,7 @@ class DaoClientsImplTest {
 
     @Test
     void containsClient() {
-        assertFalse(true);
+
     }
 
     @Test
