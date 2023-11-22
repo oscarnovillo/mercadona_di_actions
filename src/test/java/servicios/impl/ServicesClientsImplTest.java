@@ -21,6 +21,8 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.fail;
 import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class)
@@ -78,6 +80,7 @@ class ServicesClientsImplTest {
         //when
         Client respuesta = servicesClients.getClient("123");
         //then
+        fail();
         assertThat(respuesta).isEqualTo(clientPrueba);
     }
 
